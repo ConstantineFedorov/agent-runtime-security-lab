@@ -6,7 +6,7 @@ An educational prototype for collecting and correlating AI-agent runtime telemet
 
 ## Goal
 
-Build a small, explainable AIDR-style prototype around an existing AI agent. The project follows the CyberEd Homework 4 brief:
+Build a small, explainable AIDR-style prototype around an existing AI agent. The project objectives are:
 
 1. Collect telemetry from at least one source (initially, a normalized JSONL event stream; an adapter for OpenCode or another agent gateway will be evaluated).
 2. Correlate events and reconstruct an agent session.
