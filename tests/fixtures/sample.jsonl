@@ -1,0 +1,4 @@
+﻿{"event_id":"evt-001","timestamp":"2026-10-19T10:00:00Z","session_id":"sess-001","source":"agentgateway","event_type":"tool_call","actor":"assistant","data":{"tool_name":"search_docs"}}
+{"event_id":"evt-002","timestamp":"2026-10-19T10:00:01Z","session_id":"sess-001","source":"agentgateway","event_type":"tool_result","actor":"tool","data":{"tool_name":"search_docs","status":"success"}}
+{"event_id":"evt-003","timestamp":"not-a-date","session_id":"sess-001","source":"agentgateway","event_type":"tool_call","actor":"assistant","data":{}}
+{"event_id":
